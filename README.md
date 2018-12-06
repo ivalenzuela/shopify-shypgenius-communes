@@ -2,7 +2,7 @@
 Comunas de Chile para el checkout de Shopify
 
 ## Requisitos
-* código de Google Analytics Activado
+* Código de Google Analytics Activado
 
 ## Guia de Activación de la librería
 1.- Ingresa al apartado **Sales Channels** -> **Online Store** -> **Preferences**
