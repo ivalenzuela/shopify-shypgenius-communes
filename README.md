@@ -14,14 +14,7 @@ Comunas de Chile para el checkout de Shopify
 2. Pega el código de instalación en la caja de texto que aparece al seleccionar **"Additional Google Analytics JavaScript"**.
 
 ```
-if (window.location.href.indexOf('checkout') > -1) {
-  var maps = document.createElement('script');
-  maps.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyBwUsibACjM7a5qiae2alRqxlWRpA9gpC4&libraries=places';
-  document.head.appendChild(maps);
-  var script = document.createElement('script');
-  script.src = 'https://static.shypgenius.com/common/checkout.js';
-  document.head.appendChild(script);
-}
+if(window.location.href.indexOf('checkout')>-1){let _scripts=['https://code.jquery.com/jquery-3.3.1.min.js','https://maps.googleapis.com/maps/api/js?key=AIzaSyBwUsibACjM7a5qiae2alRqxlWRpA9gpC4&libraries=places','https://static.shypgenius.com/master/checkout.js'];function createScriptTag(){let script=_scripts.shift();if(!script)return;let js=document.createElement('script');js.type='text/javascript';js.src=script;js.onload=(event)=>{createScriptTag();};let s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(js,s);}createScriptTag()}
 ```
 
 Eso es todo!
