@@ -1,6 +1,10 @@
 # Shopify Shypgenius Communes
 Comunas de Chile para el checkout de Shopify
 
+#### Ghost Inspector Status:
+[![GhostInspector](https://api.ghostinspector.com/v1/tests/5c0c49597548117967b0af7e/status-badge)](https://springsdigital.com/code-compliance)
+
+
 ## Requisitos
 * Código de Google Analytics Activado
 
