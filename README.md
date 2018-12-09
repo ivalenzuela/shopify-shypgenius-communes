@@ -3,7 +3,7 @@ Comunas de Chile para el checkout de Shopify
 
 | Version | Build | Code Quality | Tests | Uptime |
 |:---|:---|:---|:---|:---|
-|[![CircleCI](https://img.shields.io/badge/checkout-0.9-blue.svg)](https://springsdigital.com/code-compliance)|[![CircleCI](https://img.shields.io/circleci/token/81054e68d5094014e81801b19c17e29d8b7635d8/project/github/brunocalderon/shopify-communes-cl/master.svg)](https://springsdigital.com/code-compliance)|[![Codacy Badge](https://img.shields.io/codacy/grade/ff8963e332314fd8b233daff50187af7.svg)](https://springsdigital.com/code-compliance)|[![GhostInspector](https://api.ghostinspector.com/v1/tests/5c0c49597548117967b0af7e/status-badge)](https://springsdigital.com/code-compliance)|[![Uptime](https://img.shields.io/uptimerobot/ratio/7/m778918918-3e92c097147760ee39d02d36.svg)](https://springsdigital.com/compliance/sla)
+|[![CircleCI](https://img.shields.io/badge/checkout-0.9-blue.svg)](https://springsdigital.com/code-compliance)|[![CircleCI](https://img.shields.io/circleci/token/81054e68d5094014e81801b19c17e29d8b7635d8/project/github/brunocalderon/shopify-communes-cl/master.svg)](https://springsdigital.com/code-compliance)|[![Codacy Badge](https://img.shields.io/codacy/grade/ff8963e332314fd8b233daff50187af7.svg)](https://springsdigital.com/code-compliance)|[![GhostInspector](https://api.ghostinspector.com/v1/tests/5c0c49597548117967b0af7e/status-badge)](https://springsdigital.com/code-compliance)|[![Uptime](https://slaimg.shields.io/uptimerobot/ratio/7/m778918918-3e92c097147760ee39d02d36.svg)](http://status.shypgenius.com)
 
 ## Requisitos
 * Código de Google Analytics Activado
