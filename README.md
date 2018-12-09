@@ -1,6 +1,9 @@
 # Shopify Shypgenius Communes
 Comunas de Chile para el checkout de Shopify
 
+#### Circle CI Status
+[![CircleCI](https://circleci.com/gh/brunocalderon/shopify-communes-cl/tree/master.svg?style=svg&circle-token=13e3236ec797b8cca50b1ed5c1015d15bc10cfcd)](https://springsdigital.com/code-compliance)
+
 #### Ghost Inspector Status:
 [![GhostInspector](https://api.ghostinspector.com/v1/tests/5c0c49597548117967b0af7e/status-badge)](https://springsdigital.com/code-compliance)
 
