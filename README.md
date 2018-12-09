@@ -5,7 +5,9 @@ Comunas de Chile para el checkout de Shopify
 [![CircleCI](https://img.shields.io/badge/checkout-0.9-blue.svg)](https://springsdigital.com/code-compliance)
 
 #### Code Quality
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ff8963e332314fd8b233daff50187af7)](https://springsdigital.com/code-complianc)
+[![Codacy Badge](https://img.shields.io/codacy/grade/ff8963e332314fd8b233daff50187af7.svg)](https://springsdigital.com/code-compliance)
+
+
 
 #### Circle CI Status
 [![CircleCI](https://circleci.com/gh/brunocalderon/shopify-communes-cl/tree/master.svg?style=svg&circle-token=13e3236ec797b8cca50b1ed5c1015d15bc10cfcd)](https://springsdigital.com/code-compliance)
